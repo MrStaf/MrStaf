@@ -1,7 +1,7 @@
 ### Hi I'm Benoît Fage - aka [MrStaf][website] 👋
 
-## I'm a student in cybersecurity 🔓 and I love web development! 🌐
-- I'm in the administrative office of an AI association called [Kasar][website-kasar] at my engineering school 🏫
+## I'm a Cybersecurity Innovation Engineer 🔓 and I love web development! 🌐
+- Currently intern at Orange Cyberdefense
 - I love to learn everything
 - Linux enthusiast 🐧 (btw I'm not using Arch)
 
