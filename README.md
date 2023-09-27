@@ -1,7 +1,9 @@
 ### Hi I'm Benoît Fage - aka [MrStaf][website] 👋
 
 ## I'm a Cybersecurity Innovation Engineer 🔓 and I love web development! 🌐
-- Currently intern at Orange Cyberdefense
+
+- Currently a consultant at Alten
+- Formerly intern at Orange Cyberdefense
 - I love to learn everything
 - Linux enthusiast 🐧 (btw I'm not using Arch)
 
